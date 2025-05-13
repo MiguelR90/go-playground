@@ -1,4 +1,4 @@
-module example.com/m/v2
+module github.com/MiguelR90/go-playground
 
 go 1.24.2
 
